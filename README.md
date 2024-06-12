@@ -41,7 +41,7 @@ Clone the repository:
 
 bash
 Copy code
-**git clone <repository-url>**
+**git clone <https://github.com/Rubeel2626/SalesForecastingApp.git>**
 Open the solution in Visual Studio.
 
 Build the solution to restore NuGet packages and dependencies.
@@ -72,4 +72,14 @@ The application assumes a database schema with tables Orders, Products, and Orde
 Modify the SQL queries in MainForm.cs to match your database schema if necessary.
 
 **Proof Of Content**
+
+![image](https://github.com/Rubeel2626/SalesForecastingApp/assets/73238414/a0dc9583-1649-4248-b267-15af6d83227a)
+
+![image](https://github.com/Rubeel2626/SalesForecastingApp/assets/73238414/5a3be077-c4a9-47a0-a69c-d1335746a5a1)
+
+![image](https://github.com/Rubeel2626/SalesForecastingApp/assets/73238414/f104087a-da41-4fb2-a88f-710ca2597adf)
+
+![image](https://github.com/Rubeel2626/SalesForecastingApp/assets/73238414/a73911cc-269a-4606-bdca-3f7b8b091aa2)
+
+
 
