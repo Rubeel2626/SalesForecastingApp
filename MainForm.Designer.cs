@@ -4,7 +4,7 @@ using System.Windows.Forms.DataVisualization.Charting;
 namespace SalesForecastingApp
 {
     partial class MainForm
-    {
+    { 
         private System.Windows.Forms.TableLayoutPanel mainLayoutPanel;
         private System.Windows.Forms.GroupBox inputGroupBox;
         private System.Windows.Forms.ComboBox yearComboBox;
